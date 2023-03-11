@@ -10,6 +10,8 @@ import UIKit
 
 protocol CollectionViewtbaleViewDelegate {
     func collectionViewTableViewcellDidTap(_ cell: CollectionViewTableViewCell, viewModal: TitlePreViewViewModel)
+    
+    
 }
 
 class CollectionViewTableViewCell: UITableViewCell {
